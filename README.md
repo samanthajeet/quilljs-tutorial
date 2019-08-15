@@ -1,23 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Summary
 
-In the project directory, you can run:
+This repo shows basic usage of QuillJS. Use it as reference to add QuillJS to your project. Feel free to `fork` and `clone` this repo, but also create your own create-react-app to solidify the concepts. 
 
-### `npm start`
+### If Forking and Cloning
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Run `npm install` to install dependencies
+* Run `npm start` to to start app
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
+### Creating your own
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
